@@ -1,7 +1,7 @@
 # url-cleaner
 Remove PATHS from urls automatically good for mass removing.
 
-# how to install
+# how to use
 
 
 install the py lib ``urllib``
