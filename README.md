@@ -1,5 +1,5 @@
 # url-cleaner
-Remove PATHS from urls automatically good for mass removing.
+Remove PATHS from urls quickly.
 
 # how to use
 
