@@ -1,5 +1,5 @@
 # url-cleaner
-Remove PATHS from urls quickly.
+Remove PATHS from urls quickly. Useful for proxies and more.
 
 # how to use
 
